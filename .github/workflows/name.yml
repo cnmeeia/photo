@@ -28,5 +28,5 @@ jobs:
           git config --global user.name cnmeeia        
           git pull         
           git add .         
-          git commit -m "push"
+          git commit --allow-empty -m "away"
           git push
